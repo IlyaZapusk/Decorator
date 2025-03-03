@@ -1,0 +1,4 @@
+2025-03-03 22:46:11 - hello_world called with args: (), kwargs: {} - returned: Hello World
+2025-03-03 22:46:11 - summator called with args: (2, 2), kwargs: {} - returned: 4
+2025-03-03 22:46:11 - div called with args: (6, 2), kwargs: {} - returned: 3.0
+2025-03-03 22:46:11 - summator called with args: (4.3,), kwargs: {'b': 2.2} - returned: 6.5
